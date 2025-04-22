@@ -1,2 +1,7 @@
 # hello-world
 Bridget Sibley hello-world assignment SUNY IDT 2025
+
+Born February 6th 1999 in Southeastern Wisconsin
+Graduated Palmyra-Eagle High School 2017
+Graduated Carlson School of Business University of Minnesota 2021
+Set to Graduate SUNY Polytechnic Institute Spring 2026
